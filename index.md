@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 classes: wide
 permalink: /
-
+---
 I am a PhD student at IIT Bombay's [Computer Science and Engineering Department](https://www.cse.iitb.ac.in/), working under the guidance of [Prof. Mythili Vutukuru](https://www.cse.iitb.ac.in/~mythili/), exploring the area of Systems and Networking.
 
 I completed my M.Tech. in Computer Science and Engineering from IIITDM, Jabalpur. Before that, I completed my MCA from the Department of Computer Science and B.Sc. from Women's College of [Aligarh Muslim University, Aligarh] (https://www.amu.ac.in/). I also interned at Wipro Ltd. in Greater Noida after MCA.
