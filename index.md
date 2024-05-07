@@ -15,7 +15,7 @@ I am a PhD student at IIT Bombay's [Computer Science and Engineering Department]
 
 I completed my M.Tech. in Computer Science and Engineering from [IIITDM, Jabalpur](https://www.iiitdmj.ac.in/). Before that, I completed my MCA from the Department of Computer Science and B.Sc. from Women's College of [Aligarh Muslim University, Aligarh](https://www.amu.ac.in/). I also interned at Wipro Ltd. in Greater Noida after MCA.
 
-Currently, I am exploring the Programmability of Linux Network Stack, which plays a pivotal role in granting developers the ability to modify, extend, and optimize networking behaviors within the Linux operating system. In my PhD seminar[abstract](), I reviewed several research works showcasing the possibility of programmability at different levels of Linux Operating System. 
+Currently, I am exploring the Programmability of Linux Network Stack, which plays a pivotal role in granting developers the ability to modify, extend, and optimize networking behaviors within the Linux operating system. In my PhD seminar [Abstract](), I reviewed several research works showcasing the possibility of programmability at different levels of Linux Operating System. 
 
 ## Education
 
