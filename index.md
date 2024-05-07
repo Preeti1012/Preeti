@@ -27,4 +27,3 @@ Currently, I am exploring the Programmability of Linux Network Stack, which play
 - **SSC**<br>_2007_ &#124; <br>[Kendriya Vidyalaya Aligarh](https://aligarh.kvs.ac.in/)
 
 ---
-## Service
