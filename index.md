@@ -3,6 +3,13 @@ layout: single
 author_profile: true
 classes: wide
 permalink: /
+# sidebar:
+#   - title: "Title"
+#     image: /assets/images/profile2.jpg
+#     image_alt: "image"
+#     text: "Some text here."
+#   - title: "Another Title"
+#     text: "More text here."
 ---
 I am a PhD student at IIT Bombay's [Computer Science and Engineering Department](https://www.cse.iitb.ac.in/), working under the guidance of [Prof. Mythili Vutukuru](https://www.cse.iitb.ac.in/~mythili/), exploring the area of Systems and Networking.
 
