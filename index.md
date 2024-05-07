@@ -19,11 +19,11 @@ Currently, I am exploring the Programmability of Linux Network Stack, which play
 
 ## Education
 
-- **Ph.D. in Computer Science and Engineering**<br>_2023 - Present_ &#124; <br>[Indian Institute of Technology Bombay](https://www.iitb.ac.in/)
+- **Ph.D. in Computer Science and Engineering**<br>_2023 - Present_ &#124; <br>[Indian Institute of Technology, Bombay](https://www.iitb.ac.in/)
 - **M.Tech.**<br>_2018 - 2020_ &#124; <br>[PDPM Indian Institute of Information Technology, Design and Manufacturing, Jabalpur](https://www.iiitdmj.ac.in/)
 - **MCA**<br>_2013 - 2016_ &#124; <br>[Aligarh Muslim University, Aligarh](https://www.amu.ac.in/)
 - **B.Sc.**<br>_2010 - 2013_ &#124; <br>[Aligarh Muslim University, Aligarh](https://www.amu.ac.in/)
-- **AISSCE**(12th)<br>_2009_ &#124; <br>[Kendriya Vidyalaya Aligarh](https://aligarh.kvs.ac.in/)
-- **AISSE**(10th)<br>_2007_ &#124; <br>[Kendriya Vidyalaya Aligarh](https://aligarh.kvs.ac.in/)
+- **AISSCE**(12th)<br>_2009_ &#124; <br>[Kendriya Vidyalaya, Aligarh](https://aligarh.kvs.ac.in/)
+- **AISSE**(10th)<br>_2007_ &#124; <br>[Kendriya Vidyalaya, Aligarh](https://aligarh.kvs.ac.in/)
 
 ---
